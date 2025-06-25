@@ -1,4 +1,4 @@
-# MarcaApp
+# Marcaton
 
 Marcaton é uma aplicação de desktop desenvolvida em Python com uma interface moderna utilizando CustomTkinter. Seu objetivo é facilitar a aplicação de marcas d'água e outras tarefas visuais de forma prática, rápida e intuitiva.
 
