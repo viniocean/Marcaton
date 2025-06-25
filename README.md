@@ -11,9 +11,10 @@ Marcaton é uma aplicação de desktop desenvolvida em Python com uma interface 
 
 ## 📦 Instalação
 
-1. Faça o download do arquivo `marcaton.exe`
-2. Execute o aplicativo com um duplo clique
-3. Pronto! Não é necessária instalação
+1. É necessário ter o FFMPEG instalado em sua máquina
+2. Faça o download do arquivo `marcaton.exe`
+3. Execute o aplicativo com um duplo clique
+4. Pronto! Não é necessária instalação
 
 ## 🛡️ Segurança e Licenciamento
 
